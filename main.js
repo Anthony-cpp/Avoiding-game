@@ -256,7 +256,7 @@ function game(){
 		break;
 
 		case 3:
-		document.getElementById("finish_score").textContent = "パスワードは"+12;
+		document.getElementById("finish_score").textContent = "パスワードは"+112;
 		break;
 
 		case 4:
@@ -1709,7 +1709,7 @@ function check_pass(){
 		sta_n = 3;
 	break;
 
-	case "12":
+	case "112":
 		mode_type =7;
 		hide_b_and_open_s();
 		l_3();
